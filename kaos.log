@@ -1,1 +1,91 @@
+1407374898156523  0 -rwxrwxrwx 1 admin admin   644 Oct 16 07:35 doc/created.rid
+ 844424944735930  8 -rwxrwxrwx 1 admin admin  7601 Oct 16 07:35 doc/github.html
+ 844424944735839  4 -rwxrwxrwx 1 admin admin  2956 Oct 16 07:35 doc/index.html
+ 844424944735934 16 -rwxrwxrwx 1 admin admin 12603 Oct 16 07:35 doc/index_html.html
+ 844424944735939  4 -rwxrwxrwx 1 admin admin  2806 Oct 16 07:35 doc/kaos_log.html
+ 844424944735844  4 -rwxrwxrwx 1 admin admin  2919 Oct 16 07:35 doc/README_md.html
+ 844424944735943  8 -rwxrwxrwx 1 admin admin  7610 Oct 16 07:35 doc/readme_txt.html
+ 562949968024757  0 -rwxrwxrwx 1 admin admin     1 Oct 16 07:22 docs/kaos.log
+ 562949968024762  0 -rwxrwxrwx 1 admin admin     0 Oct 16 07:22 docs/logo.svg
+ 562949968024766  8 -rwxrwxrwx 1 admin admin  4825 Oct 16 07:22 docs/readme.html
+ 562949968024780  8 -rwxrwxrwx 1 admin admin  4959 Oct 16 07:22 docs/readsome.html
+ 844424944735952  4 -rwxrwxrwx 1 admin admin  1939 Oct 16 07:35 doc/table_of_contents.html
 
+doc/css:
+total 20
+1970324851577839  0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 .
+3096224758420438  0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 ..
+1688849874867203  8 -rwxrwxrwx 1 admin admin 6388 Oct 16 07:35 fonts.css
+ 844424944735575 12 -rwxrwxrwx 1 admin admin 9865 Oct 16 07:35 rdoc.css
+
+doc/docs:
+total 20
+ 844424944735860 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 .
+3096224758420438 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 ..
+ 844424944735865 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 archives
+ 844424944735899 4 -rwxrwxrwx 1 admin admin 2834 Oct 16 07:35 kaos_log.html
+ 844424944735903 8 -rwxrwxrwx 1 admin admin 7913 Oct 16 07:35 readme_html.html
+ 844424944735912 8 -rwxrwxrwx 1 admin admin 8167 Oct 16 07:35 readsome_html.html
+
+doc/fonts:
+total 2728
+1125899921445901   0 drwxrwxrwx 1 admin admin   4096 Oct 16 07:35 .
+3096224758420438   0 drwxrwxrwx 1 admin admin   4096 Oct 16 07:35 ..
+1125899921446063 636 -rwxrwxrwx 1 admin admin 647880 Oct 16 07:35 Lato-LightItalic.ttf
+1688849874867219 620 -rwxrwxrwx 1 admin admin 632536 Oct 16 07:35 Lato-Light.ttf
+ 844424944735558 680 -rwxrwxrwx 1 admin admin 693228 Oct 16 07:35 Lato-RegularItalic.ttf
+ 844424944735551 648 -rwxrwxrwx 1 admin admin 661592 Oct 16 07:35 Lato-Regular.ttf
+ 844424944735564  72 -rwxrwxrwx 1 admin admin  71200 Oct 16 07:35 SourceCodePro-Bold.ttf
+ 844424944735570  72 -rwxrwxrwx 1 admin admin  71692 Oct 16 07:35 SourceCodePro-Regular.ttf
+
+doc/images:
+total 32
+ 844424944735611 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 .
+3096224758420438 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:35 ..
+1688849874867752 0 -rwxrwxrwx 1 admin admin  733 Oct 16 07:35 add.png
+ 844424944735830 0 -rwxrwxrwx 1 admin admin  372 Oct 16 07:35 arrow_up.png
+ 844424944735635 4 -rwxrwxrwx 1 admin admin  764 Oct 16 07:35 brick_link.png
+ 844424944735814 0 -rwxrwxrwx 1 admin admin  452 Oct 16 07:35 brick.png
+ 844424944735664 4 -rwxrwxrwx 1 admin admin  774 Oct 16 07:35 bug.png
+1970324851578426 0 -rwxrwxrwx 1 admin admin  211 Oct 16 07:35 bullet_black.png
+1125899921446394 0 -rwxrwxrwx 1 admin admin  207 Oct 16 07:35 bullet_toggle_minus.png
+ 844424944735640 0 -rwxrwxrwx 1 admin admin  209 Oct 16 07:35 bullet_toggle_plus.png
+1125899921446405 0 -rwxrwxrwx 1 admin admin  626 Oct 16 07:35 date.png
+1407374898157021 0 -rwxrwxrwx 1 admin admin  715 Oct 16 07:35 delete.png
+ 844424944735677 0 -rwxrwxrwx 1 admin admin  659 Oct 16 07:35 find.png
+1125899921446314 8 -rwxrwxrwx 1 admin admin 5886 Oct 16 07:35 loadingAnimation.gif
+ 844424944735691 0 -rwxrwxrwx 1 admin admin  225 Oct 16 07:35 macFFBgHack.png
+1125899921446349 4 -rwxrwxrwx 1 admin admin  853 Oct 16 07:35 package.png
+ 844424944735700 4 -rwxrwxrwx 1 admin admin  621 Oct 16 07:35 page_green.png
+ 844424944735620 0 -rwxrwxrwx 1 admin admin  342 Oct 16 07:35 page_white_text.png
+1125899921446444 0 -rwxrwxrwx 1 admin admin  309 Oct 16 07:35 page_white_width.png
+ 844424944735645 0 -rwxrwxrwx 1 admin admin  591 Oct 16 07:35 plugin.png
+ 844424944735724 0 -rwxrwxrwx 1 admin admin  592 Oct 16 07:35 ruby.png
+1407374898157041 4 -rwxrwxrwx 1 admin admin 1880 Oct 16 07:35 tag_blue.png
+ 844424944735825 4 -rwxrwxrwx 1 admin admin  613 Oct 16 07:35 tag_green.png
+ 844424944735670 0 -rwxrwxrwx 1 admin admin   97 Oct 16 07:35 transparent.png
+ 844424944735661 0 -rwxrwxrwx 1 admin admin  584 Oct 16 07:35 wrench_orange.png
+ 844424944735688 0 -rwxrwxrwx 1 admin admin  610 Oct 16 07:35 wrench.png
+ 844424944735834 0 -rwxrwxrwx 1 admin admin  692 Oct 16 07:35 zoom.png
+
+doc/js:
+total 120
+ 844424944735596  0 drwxrwxrwx 1 admin admin  4096 Oct 16 07:35 .
+3096224758420438  0 drwxrwxrwx 1 admin admin  4096 Oct 16 07:35 ..
+ 844424944735600  4 -rwxrwxrwx 1 admin admin  2355 Oct 16 07:35 darkfish.js
+ 844424944735608 88 -rwxrwxrwx 1 admin admin 89204 Oct 16 07:35 jquery.js
+ 844424944735986  4 -rwxrwxrwx 1 admin admin  2724 Jul  7  2021 navigation.js
+ 844424944736012  4 -rwxrwxrwx 1 admin admin   833 Oct 16 07:35 navigation.js.gz
+ 844424944735976  8 -rwxrwxrwx 1 admin admin  6596 Jul  7  2021 searcher.js
+ 844424944735999  4 -rwxrwxrwx 1 admin admin  1688 Oct 16 07:35 searcher.js.gz
+ 844424944735970  4 -rwxrwxrwx 1 admin admin  2805 Oct 16 07:35 search_index.js
+ 844424944735990  0 -rwxrwxrwx 1 admin admin   537 Oct 16 07:35 search_index.js.gz
+ 844424944735605  4 -rwxrwxrwx 1 admin admin  3094 Oct 16 07:35 search.js
+
+docs/archives:
+total 4
+562949968024685 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:22 .
+562949968024603 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:22 ..
+562949968024695 4 -rwxrwxrwx 1 admin admin 1542 Oct 16 07:22 1.bs.zip
+562949968024689 0 lrwxrwxrwx 1 admin admin    8 Oct 16 07:22 .h.dev -> kaos.dev
+562949968024711 0 drwxrwxrwx 1 admin admin 4096 Oct 16 07:30 zip
